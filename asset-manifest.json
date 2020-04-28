@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/shopping-site/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/shopping-site/static/js/main.e00894ef.chunk.js",
-    "main.js.map": "/shopping-site/static/js/main.e00894ef.chunk.js.map",
+    "main.js": "/shopping-site/static/js/main.47771a50.chunk.js",
+    "main.js.map": "/shopping-site/static/js/main.47771a50.chunk.js.map",
     "runtime-main.js": "/shopping-site/static/js/runtime-main.8dd1ea3f.js",
     "runtime-main.js.map": "/shopping-site/static/js/runtime-main.8dd1ea3f.js.map",
-    "static/js/2.cccd7634.chunk.js": "/shopping-site/static/js/2.cccd7634.chunk.js",
-    "static/js/2.cccd7634.chunk.js.map": "/shopping-site/static/js/2.cccd7634.chunk.js.map",
+    "static/js/2.58a5fc75.chunk.js": "/shopping-site/static/js/2.58a5fc75.chunk.js",
+    "static/js/2.58a5fc75.chunk.js.map": "/shopping-site/static/js/2.58a5fc75.chunk.js.map",
     "index.html": "/shopping-site/index.html",
-    "precache-manifest.8943574db9067d36a7ec55ce459808d2.js": "/shopping-site/precache-manifest.8943574db9067d36a7ec55ce459808d2.js",
+    "precache-manifest.227c5a858a1b92158c16c0bfea23ded6.js": "/shopping-site/precache-manifest.227c5a858a1b92158c16c0bfea23ded6.js",
     "service-worker.js": "/shopping-site/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/shopping-site/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.cccd7634.chunk.js.LICENSE.txt": "/shopping-site/static/js/2.cccd7634.chunk.js.LICENSE.txt"
+    "static/js/2.58a5fc75.chunk.js.LICENSE.txt": "/shopping-site/static/js/2.58a5fc75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8dd1ea3f.js",
-    "static/js/2.cccd7634.chunk.js",
+    "static/js/2.58a5fc75.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e00894ef.chunk.js"
+    "static/js/main.47771a50.chunk.js"
   ]
 }
