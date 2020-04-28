@@ -1,0 +1,3 @@
+export const ADD_PRODUCT = "ADD_PRODUCT" ;
+export const SELECT_CATEGORY = "SELECT_CATEGORY" ;
+export const ADD_CATEGORY = "ADD_CATEGORY" ;
